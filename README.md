@@ -1,12 +1,15 @@
 # Q4-Class-11
 
 We studied:
+
 *Function_tool
  --name_override
  --description_override
  --is_enabled(by default True)
+ 
  *model_settings
-  ModelSettings(Class and its parameterd,temperature,tool_choice)
+ 
+ -- ModelSettings(Class and its parameterd,temperature,tool_choice)
 
   <img width="1607" height="904" alt="writer-agent" src="https://github.com/user-attachments/assets/26da3ecc-b118-4161-a9ed-e921d4941819" />
   <img width="1607" height="904" alt="current_location_newitems" src="https://github.com/user-attachments/assets/ee618d5f-473f-46fc-bd71-ba5d95cf5f8a" />
