@@ -2,11 +2,13 @@
 
 We studied:
 
+*DocString
+
 *Function_tool
 
  --name_override
  --description_override
- --is_enabled(by default True)
+ --is_enabled(by default is True and other option is by function)
  
  *model_settings
  
